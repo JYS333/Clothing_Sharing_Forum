@@ -1,5 +1,5 @@
 # CS546-Final-Projec
-Technology stack: JavaScript, HTML, CSS, jQuery, Bootstrap, handlebar, express, mongoDB
+Technology stack: Node.js, JavaScript, HTML, CSS, jQuery, Bootstrap, handlebar, express, mongoDB
  
 Final Project for CS-546: Web Programming.   
 @Group14 2020 Spring.   
